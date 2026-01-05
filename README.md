@@ -32,5 +32,15 @@ Whether you choose the USB Dongle, the RP2040 module, or the Raspberry Pi HAT, A
 - Transmit power is 20dBm
 - Maximum communication distance up to 500m
 
+## USB Driver
+- **CH340**: The hardware is based on the CH340 chip, incase of driver you can download it from the official website. You can download the drivers for windows/Mac/linux using the below link.
+https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
+
+## Table of Contents
+1. [Documentation](Documentation/) -
+2. [Hardware](Hardware/) - 
+3. [Software](Software/) - This directory contains all the codes like library and examples
+4. [Tools](Tools/) - This directory contains serial communication tool (X-Com) for manual AT Commands
+
   
 
