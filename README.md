@@ -24,5 +24,13 @@ Whether you choose the USB Dongle, the RP2040 module, or the Raspberry Pi HAT, A
 - Maximum communication maximum distance up to 500m
 - MTU max 517 byte
 
+## WiFi Features
+- Support STA working mode
+- Supports disconnected automatic re-connection
+- Supports WPA2 WIFI security authentication method
+- Supports TCP CLIENT communication mode
+- Transmit power is 20dBm
+- Maximum communication distance up to 500m
+
   
 
