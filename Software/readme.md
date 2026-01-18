@@ -11,7 +11,7 @@ This contains all the library related to Airkey boards and example codes to test
 4. parse_command - To parse AT commands
 5. close - Close the serial communication
 
-**Moudle Basic Commands Functions**
+**Module Basic Commands Functions**
 
 1. link_check - Test the Module by sending "AT" and wait for "AT_OK"
 2. querry_MAC - Read the unique ID of the module
