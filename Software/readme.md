@@ -1,7 +1,7 @@
 # All about Library and example codes
 This contains all the library related to Airkey boards and example codes to test the hardwares.
 
-## Library Functions
+## Library Functions (airkey.py)
 
 **Serial Communication Functions**
 
@@ -52,6 +52,8 @@ This contains all the library related to Airkey boards and example codes to test
 14. set_LORA_networkID - Set the LORA network ID (0 to 255 range)
 15. read_LORA_key - Read the LORA key, used for encryption (0 to 65535 range)
 16. set_LORA_key - Set the LORA key, used for encryption (0 to 65535 range)
+
+You can also create your functions in the library (airkey.py) as per the AT Commands
      
 
 
