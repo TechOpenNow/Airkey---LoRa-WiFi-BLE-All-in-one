@@ -35,7 +35,7 @@
 
 
 
-   AT Command Configuration to connect to TCP Server
+     AT Command Configuration to connect to TCP Server
      
      AT+STA=MYWIFI,12345678         // set wifi account/password
      
@@ -50,6 +50,8 @@
    <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/9e55c148-8d2b-4a5f-bf5d-72286bd3a1e4" />
 
    - You can also configure the module using AT commands using "NetAssist" by following these commands which allow to enter and exit the AT command mode using TCP
+
+   Enter the following commands
      
      AT+AUTH=123456     // Perform permission verification to enter AT command mode
 
