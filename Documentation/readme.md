@@ -35,7 +35,7 @@
 
 
 
-   - AT Command Configuration to connect to TCP Server
+   AT Command Configuration to connect to TCP Server
      
      AT+STA=MYWIFI,12345678         // set wifi account/password
      
