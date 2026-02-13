@@ -62,6 +62,39 @@
    <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/51681336-6c01-4bdd-8bb7-2de95642d8ae" />
 
 
+**6. Lora Point to Point Commuication**
+
+   Configure the Moudule 1 as below:
+   
+     AT+HMODE=0    // Enter configuration
+
+     AT+TRANS=1    // Fixed-point transmission
+
+     AT+ADDR=1     // Set module address to 00 01
+
+     AT+CHANNEL=1  // set channel to 1
+
+     AT+HMODE=1    // Set mode UART-LoRa pass-through, BLE listening Transmit/receive data in hexadecimal
+
+
+   Configure the Moudule 2 as below:
+   
+     AT+HMODE=0    // Enter configuration
+
+     AT+TRANS=1    // Fixed-point transmission
+
+     AT+ADDR=2     // Set module address to 00 02
+
+     AT+CHANNEL=1  // set channel to 1
+
+     AT+HMODE=1    // Set mode UART-LoRa pass-through, BLE listening Transmit/receive data in hexadecimal
+
+     00 01 01 AA BB CC   // Target address is 00 01, channel is 01, data is AA BB CC
+
+   <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/e968d7c8-40ba-4013-bafc-b060b2c8ec9c" />
+   
+
+   <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/fe3d803b-3b39-4fc3-b7df-65f51fc5af2c" />
 
 
 
