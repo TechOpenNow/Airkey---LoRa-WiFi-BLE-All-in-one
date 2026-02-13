@@ -34,7 +34,9 @@ Whether you choose the USB Dongle, the RP2040 module, or the Raspberry Pi HAT, A
 
 ## Airkey Raspberry Pi HAT - UART/USB Setting
 
-![AirkeyRPi](https://github.com/user-attachments/assets/fc0a444d-7cbe-47af-9a61-761960defca8)
+<img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/fc0a444d-7cbe-47af-9a61-761960defca8" />
+
+As you can see the Yellow Jumper, by changing these jumper settings you can change the UART/USB communication.
 
 
 ## USB Driver
