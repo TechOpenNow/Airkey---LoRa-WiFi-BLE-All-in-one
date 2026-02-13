@@ -31,7 +31,7 @@
    
    - For this configuration Computer and the Airkey Hardware must be connected to the same WiFi network (2.4G). Once this is done open the "NetAssist" and open a TCP Server. You can change the port numbers, default is set to 8080
 
-   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/4fd84793-9977-4128-91cb-dd92c7e0936c" />
+   <img width="5" height="480" alt="image" src="https://github.com/user-attachments/assets/4fd84793-9977-4128-91cb-dd92c7e0936c" />
 
 
 
@@ -43,11 +43,22 @@
      
      AT+HMODE=6                      // Enter mode 6, UART-TCP passthrough.
 
-   <img width="480" height="580" alt="image" src="https://github.com/user-attachments/assets/aefc707c-542b-4dec-93c2-a2e926cdea8d" />
+   <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/aefc707c-542b-4dec-93c2-a2e926cdea8d" />
 
    - Once the TCP is connected. You can send and recieve the data
 
    <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/9e55c148-8d2b-4a5f-bf5d-72286bd3a1e4" />
+
+   - You can also configure the module using AT commands using "NetAssist" by following these commands which allow to enter and exit the AT command mode using TCP
+     
+     AT+AUTH=123456     // Perform permission verification to enter AT command mode
+
+     AT                 // Verify entry into AT command mode
+
+     AT+AUTHEXIT        // exit AT command configuration
+
+   <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/51681336-6c01-4bdd-8bb7-2de95642d8ae" />
+
 
 
 
