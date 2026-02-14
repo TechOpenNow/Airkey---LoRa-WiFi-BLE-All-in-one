@@ -53,6 +53,38 @@ As you can see the Yellow Jumper, by changing these jumper settings you can chan
 
 The smaller antenna is of WiFi Antenna and Bigger Antenna is for LoRa
 
+## Working Modes
+
+Mode 1 
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/50e126c0-aef3-4c50-b108-04d50b2b26af" />
+
+Mode 2
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/3da31781-1a3f-415a-b8c7-7f87078a42fe" />
+
+Mode 3
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/93710e09-753a-4cf1-aecb-4dc57c088a24" />
+
+Mode 4
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/68299f26-ff7e-4be7-bbae-2135432394c3" />
+
+Mode 5
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/5208e81f-c3d5-4351-9c43-c584f0d8c6e7" />
+
+Mode 6
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/6870ba64-9f85-4e38-b688-bb44e81c4e66" />
+
+Mode 7
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/81295eb5-efc2-4510-92ba-e8ceb8d450ce" />
+
+
+
 ## USB Driver
 - **CH340**: The hardware is based on the CH340 chip, incase of driver you can download it from the official website. You can download the drivers for windows/Mac/linux using the below link.
 https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
