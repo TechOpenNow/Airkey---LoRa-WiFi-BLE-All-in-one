@@ -48,6 +48,9 @@ As you can see the Yellow Jumper, by changing these jumper settings you can chan
 
 <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/5a365296-8557-402d-a1e3-16785b04ff40" />
 
+<img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/96a0a178-8e18-4172-af0b-71622659b990" />
+
+
 The smaller antenna is of WiFi Antenna and Bigger Antenna is for LoRa
 
 ## USB Driver
