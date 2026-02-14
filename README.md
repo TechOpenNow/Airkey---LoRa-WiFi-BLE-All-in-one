@@ -12,7 +12,7 @@ WIFI - Default high, WIFI connected, TCP not connected outputs 1Hz high and low 
 <img src="https://i.kickstarter.com/assets/051/028/828/d2938e267c89fac412611bec35e4f368_original.jpg?fit=scale-down&origin=ugc&q=92&v=1759140553&width=680&sig=Z%2FMNjh2UtI6iiaBT8%2FemkZhSqTBzUhm02250YQMpU7g%3D" alt="Airkey" width="50%"/>
 
 ## LoRa Features
-- Multi Band support for different frequencies433/868/915 Mhz
+- Multi Band support for different frequencies 433/868/915 Mhz
 - Support AT commands and Hex Commands
 - New generation LoRa spread spectrum modulation technology which brings longer communication distance and stronger anti-interference ability
 - Support automatic relay networking, and multi-level relay is suitable for ultra-long-distance communication, and the same area runs multiple networks at the same time
