@@ -14,3 +14,13 @@ This contains all the library related to Airkey RP2040 board and example codes t
 6. parse_command - To parse AT commands
 
 Rest all the functions in the RP2040 library are same as previous airkey library.
+
+**Start with Thoony**
+
+ - Connect the Airkey_RP2040 with the computer
+ - Open the Thonny IDE and select the MicroPython Raspberry Pi Pico
+ - Copy the airkey.py library to the baord
+ - copy the example code and paste to main.py and run the code
+
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/7660ceea-37a4-4f74-bce5-5e5ed92844e5" />
+
