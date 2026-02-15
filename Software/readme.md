@@ -1,6 +1,8 @@
 # All about Library and example codes
 This contains all the library related to Airkey boards and example codes to test the hardwares.
 
+Airkey_RP2040 : This directory contains Library for the RP2040. Only serial communications are changed in the library rest all the functions are same.
+
 ## Library Functions (airkey.py)
 
 **Serial Communication Functions**
