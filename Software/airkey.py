@@ -191,7 +191,7 @@ class module:
         @Return:
         Success (True) or Failure (False)
         """
-        command = f"AT+HMODE={mode};"
+        command = f"AT+HMODE={mode}"
         response = self.send_data(command, wait_for_response=True)
         param = response.strip().split('\n')
         print(param)
