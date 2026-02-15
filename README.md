@@ -55,6 +55,12 @@ The smaller antenna is of WiFi Antenna and Bigger Antenna is for LoRa
 
 ## Working Modes
 
+[Documentation](Documentation/) - In this we have update complete examples of AT commands based testing and working of different modes without programming
+
+[Software](Software/) - This contains all the libraries and software to work with Airkey. Airkey.py is differnt for RP2040 so please copy accordingly.
+
+## Working Modes
+
 Mode 1 
 
 <img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/50e126c0-aef3-4c50-b108-04d50b2b26af" />
