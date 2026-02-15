@@ -91,8 +91,8 @@ https://www.wch-ic.com/downloads/CH341SER_ZIP.html#carousel-example-generic
 
 ## Table of Contents
 1. [Documentation](Documentation/) - This directory contains the datasheet of the module and AT commands instruction manual 
-2. [Hardware](Hardware/) - 
-3. [Software](Software/) - This directory contains all the codes like library and examples
+2. [Hardware](Hardware/) - This directory contains hardware STEP files
+3. [Software](Software/) - This directory contains all the codes like library, example code and getting started
 4. [Tools](Tools/) - This directory contains softwares used for testing the Airkey Boards like serial communication, netassist etc
 
   
