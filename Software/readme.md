@@ -7,9 +7,11 @@ This contains all the library related to Airkey boards and example codes to test
 
 1. open - This function will open the serial communication as per the port, baudrate etc
 2. send_data - Sends AT commands to serial port
-3. receive_data - Recieve the data from serial port
-4. parse_command - To parse AT commands
-5. close - Close the serial communication
+3. send_hex_data - Send the data in HEX format, example to send data on LoRa HEX is needed
+4. receive_data - Recieve the data from serial port
+5. receive_hex_data - Recieve the data in HEX format
+6. parse_command - To parse AT commands
+7. close - Close the serial communication
 
 **Module Basic Commands Functions**
 
@@ -68,6 +70,10 @@ Please follow the below steps:
    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/543ae5a2-eacd-49ed-812d-2a795f7e67e1" />
 
 2. You can also check the module datasheet for more information on this.
+
+**Example3_Lora_Rx** : This example is used to create fixed point Lora Communication and this is code for recieving the data. Run this code from reciever side.
+
+**Example3_Lora_Tx** : This example is used to create fixed point Lora Communication and this is code for transmitting the data. Run this code from the transmitter side.
 
 **Example_BLE_AT_Command**
 Donwload the BLE tester App (https://play.google.com/store/apps/details?id=com.zhctwh.ble_tester) or you can use any other BLE apps.
